@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+  }
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .ball {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+  }
+  
+  .blue-ball {
+    background-color: #70a8dd;
+  }
+  
+  .red-ball {
+    background-color: #ef5a4d;
+  }
+  
